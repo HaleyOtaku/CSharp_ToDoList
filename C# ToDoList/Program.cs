@@ -1,6 +1,9 @@
-﻿namespace C__ToDoList
+﻿//Following this tutorial => https://youtu.be/_jMyX1FnTys?si=CaT_SAAnAL6kdr0x
+
+namespace C__ToDoList
 {
-    internal class Program
+    //Remove internal from the class name!
+    class Program
     {
         static void Main(string[] args)
         {
